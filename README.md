@@ -10,11 +10,11 @@ the bot starts sending the live value of the stock.
 
 ## Screenshots
 * Straws Bot before program runs
-![Image text](https://github.com/g0takh0R/Stock-Alert-Bot/blob/main/Screenshots/S1.jpeg =250x250)
+![Image text](https://github.com/g0takh0R/Stock-Alert-Bot/blob/main/Screenshots/S1.jpeg)
 * After logging in as bot
-![Image text](https://github.com/g0takh0R/Stock-Alert-Bot/blob/main/Screenshots/S2.jpeg =250x250)
+![Image text](https://github.com/g0takh0R/Stock-Alert-Bot/blob/main/Screenshots/S2.jpeg)
 * Stock given by user and its output of live stock data
-![Image text](https://github.com/g0takh0R/Stock-Alert-Bot/blob/main/Screenshots/S3.jpeg =250x250)
+![Image text](https://github.com/g0takh0R/Stock-Alert-Bot/blob/main/Screenshots/S3.jpeg)
 
 ## Link
 This programs runs online IDE named replit. Below is the link to the code :
