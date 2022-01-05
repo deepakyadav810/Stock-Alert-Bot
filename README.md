@@ -14,7 +14,7 @@ the bot starts sending the live value of the stock.
 * After logging in as bot
 ![Image text](https://github.com/g0takh0R/Stock-Alert-Bot/blob/main/Screenshots/S2.jpg)
 * Stock given by user and its output of live stock data
-![Image text](https://github.com/g0takh0R/Stock-Alert-Bot/blob/main/Screenshots/S3.jpeg)
+![Image text](https://github.com/g0takh0R/Stock-Alert-Bot/blob/main/Screenshots/S3.jpg)
 
 ## Link
 This programs runs online IDE named replit. Below is the link to the code :
