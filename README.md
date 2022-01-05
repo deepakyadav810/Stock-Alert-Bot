@@ -10,7 +10,7 @@ the bot starts sending the live value of the stock.
 
 ## Screenshots
 * Straws Bot before program runs
-![Image text](https://github.com/g0takh0R/Stock-Alert-Bot/blob/main/Screenshots/S1.jpeg)
+![Image text](https://github.com/g0takh0R/Stock-Alert-Bot/blob/main/Screenshots/S1.jpg)
 * After logging in as bot
 ![Image text](https://github.com/g0takh0R/Stock-Alert-Bot/blob/main/Screenshots/S2.jpeg)
 * Stock given by user and its output of live stock data
