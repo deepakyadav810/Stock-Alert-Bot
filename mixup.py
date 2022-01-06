@@ -65,9 +65,5 @@ async def on_message(message):
           sleep(2)
       except:
         driver.quit()
-
-   
-          
-  
+        
 client.run(os.getenv('TOKEN')) 
-
